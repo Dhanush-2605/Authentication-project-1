@@ -1,0 +1,27 @@
+
+body {
+  background-color: #E8ECEF;
+  background: rgb(72,82,88);
+  background: linear-gradient(90deg, rgba(72,82,88,1) 0%, rgba(0,212,255,1) 0%, rgba(61,69,80,1) 65%, rgba(24,25,52,1) 100%, rgba(58,75,134,1) 100%, rgba(2,0,36,1) 100%);
+
+
+
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.background{
+  background-image: url("https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg");
+
+
+}
